@@ -1,1 +1,1 @@
-{"stationId":9921501,"stationGroupId":1123124,"name":"福島","lineId":99215,"zipCode":"960-8031","longitude":140.460012,"latitude":37.754239,"status":0}
+{"stationId":9921501,"stationGroupId":1123124,"name":"福島","lineId":99215,"zipCode":"960-8031","pref":"福島県","city":"福島市","town":"栄町","longitude":140.460012,"latitude":37.754239,"status":0}

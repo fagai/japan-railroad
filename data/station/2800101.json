@@ -1,1 +1,1 @@
-{"stationId":2800101,"stationGroupId":2100201,"name":"浅草","lineId":28001,"zipCode":"111-0032","longitude":139.797592,"latitude":35.710733,"status":0}
+{"stationId":2800101,"stationGroupId":2100201,"name":"浅草","lineId":28001,"zipCode":"111-0032","pref":"東京都","city":"台東区","town":"浅草","longitude":139.797592,"latitude":35.710733,"status":0}

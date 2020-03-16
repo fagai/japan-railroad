@@ -1,1 +1,1 @@
-{"stationId":2500127,"stationGroupId":1130611,"name":"町田","lineId":25001,"zipCode":"194-0013","longitude":139.445236,"latitude":35.544222,"status":0}
+{"stationId":2500127,"stationGroupId":1130611,"name":"町田","lineId":25001,"zipCode":"194-0013","pref":"東京都","city":"町田市","town":"原町田","longitude":139.445236,"latitude":35.544222,"status":0}

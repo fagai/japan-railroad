@@ -1,1 +1,1 @@
-{"stationId":2400101,"stationGroupId":1130208,"name":"新宿","lineId":24001,"zipCode":"160-0023","longitude":139.699187,"latitude":35.690163,"status":0}
+{"stationId":2400101,"stationGroupId":1130208,"name":"新宿","lineId":24001,"zipCode":"160-0023","pref":"東京都","city":"新宿区","town":"西新宿","longitude":139.699187,"latitude":35.690163,"status":0}

@@ -1,1 +1,1 @@
-{"stationId":1132301,"stationGroupId":1130220,"name":"上野","lineId":11323,"zipCode":"110-0005","longitude":139.777043,"latitude":35.71379,"status":0}
+{"stationId":1132301,"stationGroupId":1130220,"name":"上野","lineId":11323,"zipCode":"110-0005","pref":"東京都","city":"台東区","town":"上野","longitude":139.777043,"latitude":35.71379,"status":0}

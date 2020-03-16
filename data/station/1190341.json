@@ -1,1 +1,1 @@
-{"stationId":1190341,"stationGroupId":1190341,"name":"熊本","lineId":11903,"zipCode":"860-0047","longitude":130.688499,"latitude":32.789207,"status":0}
+{"stationId":1190341,"stationGroupId":1190341,"name":"熊本","lineId":11903,"zipCode":"860-0047","pref":"熊本県","city":"熊本市西区","town":"春日","longitude":130.688499,"latitude":32.789207,"status":0}

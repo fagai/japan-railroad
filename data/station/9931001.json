@@ -1,1 +1,1 @@
-{"stationId":9931001,"stationGroupId":1130105,"name":"横浜","lineId":99310,"zipCode":"220-0011","longitude":139.622299,"latitude":35.466372,"status":0}
+{"stationId":9931001,"stationGroupId":1130105,"name":"横浜","lineId":99310,"zipCode":"220-0011","pref":"神奈川県","city":"横浜市西区","town":"高島","longitude":139.622299,"latitude":35.466372,"status":0}

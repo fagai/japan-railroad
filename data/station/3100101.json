@@ -1,1 +1,1 @@
-{"stationId":3100101,"stationGroupId":3100101,"name":"大阪難波","lineId":31001,"zipCode":"542-0076","longitude":135.499144,"latitude":34.667113,"status":0}
+{"stationId":3100101,"stationGroupId":3100101,"name":"大阪難波","lineId":31001,"zipCode":"542-0076","pref":"大阪府","city":"大阪市中央区","town":"難波","longitude":135.499144,"latitude":34.667113,"status":0}

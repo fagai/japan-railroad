@@ -1,1 +1,1 @@
-{"stationId":3400326,"stationGroupId":1160214,"name":"大阪梅田","lineId":34003,"zipCode":"530-0001","longitude":135.498312,"latitude":34.705517,"status":0}
+{"stationId":3400326,"stationGroupId":1160214,"name":"大阪梅田","lineId":34003,"zipCode":"530-0001","pref":"大阪府","city":"大阪市北区","town":"梅田","longitude":135.498312,"latitude":34.705517,"status":0}

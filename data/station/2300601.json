@@ -1,1 +1,1 @@
-{"stationId":2300601,"stationGroupId":2300101,"name":"京成上野","lineId":23006,"zipCode":"110-0007","longitude":139.773571,"latitude":35.711232,"status":0}
+{"stationId":2300601,"stationGroupId":2300101,"name":"京成上野","lineId":23006,"zipCode":"110-0007","pref":"東京都","city":"台東区","town":"上野公園","longitude":139.773571,"latitude":35.711232,"status":0}

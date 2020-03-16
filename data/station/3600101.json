@@ -1,1 +1,1 @@
-{"stationId":3600101,"stationGroupId":3600101,"name":"西鉄福岡（天神）","lineId":36001,"zipCode":"810-0001","longitude":130.399733,"latitude":33.588937,"status":0}
+{"stationId":3600101,"stationGroupId":3600101,"name":"西鉄福岡（天神）","lineId":36001,"zipCode":"810-0001","pref":"福岡県","city":"福岡市中央区","town":"天神","longitude":130.399733,"latitude":33.588937,"status":0}

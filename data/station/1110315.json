@@ -1,1 +1,1 @@
-{"stationId":1110315,"stationGroupId":1110315,"name":"札幌","lineId":11103,"zipCode":"060-0806","longitude":141.350768,"latitude":43.068612,"status":0}
+{"stationId":1110315,"stationGroupId":1110315,"name":"札幌","lineId":11103,"zipCode":"060-0806","pref":"北海道","city":"札幌市北区","town":"北六条西","longitude":141.350768,"latitude":43.068612,"status":0}

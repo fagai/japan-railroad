@@ -1,1 +1,1 @@
-{"stationId":2800410,"stationGroupId":2800109,"name":"日本橋","lineId":28004,"zipCode":"103-0027","longitude":139.773516,"latitude":35.682078,"status":0}
+{"stationId":2800410,"stationGroupId":2800109,"name":"日本橋","lineId":28004,"zipCode":"103-0027","pref":"東京都","city":"中央区","town":"日本橋","longitude":139.773516,"latitude":35.682078,"status":0}
