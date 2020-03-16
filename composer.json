@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^5.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fagai\\LineData\\": "src"
+        }
+    }
+}
